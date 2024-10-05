@@ -23,46 +23,55 @@
             <English>Enable Hypothermia</English>
             <Dutch>Schakel hypothermie in</Dutch>
             <Spanish>Habilitar hipotermia</Spanish>
+            <German>Aktiviere Unterkühlung</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_HAND_WARMER_IMPACT">
             <English>Hand Warmer Impact</English>
             <Dutch>Handwarmer impact</Dutch>
             <Spanish>Impacto de Calentador de Manos</Spanish>
+            <German>Einfluss von Handwärmern</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_HAND_WARMER_IMPACT_DESC">
             <English>Multipler for impact of hand warmers on heat gain</English>
             <Dutch>Vermenigvuldiger voor de impact die handwarmers hebben op de stijging van temperatuur</Dutch>
             <Spanish>Multiplicador del impacto del calentador de manos en la ganancia de calor</Spanish>
+            <German>Multiplikator, der die Auswirkungen von Handwärmern auf die Wärmegewinnung beschreibt</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_FLUID_WARMER_IMPACT">
             <English>Fluid Warmer Impact</English>
             <Dutch>Vloeistofverwarmer impact</Dutch>
             <Spanish>Impacto del Calentador de Fluidos</Spanish>
+            <German>Einfluss von Flüssigkeitswärmern</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_FLUID_WARMER_IMPACT_DESC">
             <English>Multipler for impact of fluid warmer on heat gain</English>
             <Dutch>Vermenigvuldiger voor de impact die vloeistofverwarmers hebben op de stijging van temperatuur</Dutch>
             <Spanish>Multiplicador del impacto del calentador de fluidos en la ganancia de calor</Spanish>
+            <German>Multiplikator, der die Auswirkungen von Flüssigkeitswärmern auf die Wärmegewinnung beschreibt</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_WARM_CLOTHING">
             <English>Warm Uniforms</English>
             <Dutch>Warme uniformen</Dutch>
             <Spanish>Uniformes Calientes</Spanish>
+            <German>Warme Uniformen</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_WARM_CLOTHING_DESC">
             <English>List of clothing marked that reduces heat loss</English>
             <Dutch>Lijst van kleding die temperatuurdalingen verminderen</Dutch>
             <Spanish>Listado de ropa marcada como reductora de la pérdida de calor</Spanish>
+            <German>Bekleidung, die weniger Wärmeverlust bewirkt</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_CheckHandWarmers">
             <English>Check Hand Warmers</English>
             <Dutch>Check handwarmers</Dutch>
             <Spanish>Comprobar Calentadores de Manos</Spanish>
+            <German>Überprüfe Handwärmer</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_HandWarmer_displayName">
             <English>Hand Warmer</English>
             <Dutch>Handwarmers</Dutch>
             <Spanish>Calentador de Manos</Spanish>
+            <German>Handwärmer</German>
         </Key>
         <Key ID="STR_KAT_Hypothermia_HandWarmer_DescShort">
             <English>Small hand warmers to provide warmth in colder climates</English>
