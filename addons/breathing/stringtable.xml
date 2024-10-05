@@ -59,6 +59,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_SpO2_cardiacValue">
             <English>Cardiac arrest SpO2 value</English>
+            <German>SpO2 Wert für Kreislaufstillstand</German>
             <Russian>Значение SpO2 при остановке сердца</Russian>
             <Spanish>Valor de SpO2 de parada cardíaca</Spanish>
             <Japanese>SpO2の心停止値</Japanese>
@@ -68,6 +69,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_SpO2_cardiacActive">
             <English>Activate cardiac arrest SpO2 value</English>
+            <German>SpO2 Wert für Kreislaufstillstand aktivieren</German>
             <Russian>Активируйте значение SpO2 при остановке сердца</Russian>
             <Spanish>Activar parada cardíaca por valor de SpO2</Spanish>
             <Japanese>SpO2の心停止値を有効化</Japanese>
@@ -109,7 +111,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_SpO2_Perfusion">
             <English>Enable cardiac arrest SpO2 reduction</English>
-            <German>Aktivieren von SpO2-Verlust bei Herzstillstand</German>
+            <German>SpO2-Verlust bei Herzstillstand aktivieren</German>
             <Japanese>心停止時のSpO2低下を有効化</Japanese>
             <Chinesesimp>心脏骤停时减少SpO2的下降</Chinesesimp>
             <Russian>Включить снижение SpO2 при остановке сердца</Russian>
@@ -158,6 +160,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_Enable_Etco2">
             <English>Enable ETCo2 Monitoring</English>
+            <German>ETCo2 Überwachung aktivieren</German>
             <Japanese>ETCo2モニタリングを有効化</Japanese>
             <French>Activer la mesure de ETCo2</French>
             <Russian>Включить мониторинг ETCo2</Russian>
@@ -167,6 +170,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_Enable_Etco2_Desc">
             <English>Sets if medics can view a patient's ETCo2 and Respiratory Rate in the Vitals Monitor when a device capable of monitoring ETCo2 is connected</English>
+            <German>Bestimmt, ob Sanitäter die ETCo2- und Atemfrequenzwerte auf dem Vitalzeichen-Monitor sehen können, wenn ein ETCo2-überwachendes Gerät angeschlossen ist.</German>
             <Japanese>呼気終末二酸化炭素(ETCo2)をモニタリングできるデバイスが接続されている場合に、衛生兵がバイタルモニターで患者のETCo2と呼吸数を表示できるかどうかを設定します。</Japanese>
             <French>Définit si les médecins peuvent afficher l’ETCo2 et la fréquence respiratoire d’un patient dans le moniteur des signes vitaux lorsqu’un appareil capable de surveiller l’ETCo2 est connecté</French>
             <Russian>Определяет, могут ли медики видеть ETCo2 пациента и частоту дыхания на мониторе жизненно важных показателей, когда подключено устройство, способное контролировать ETCo2</Russian>
@@ -176,6 +180,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_Select_Etco2_Units">
             <English>Desired units for ETCo2 Monitoring</English>
+            <German>Bevorzugte Einheiten für ETCo2-Überwachung</German>
             <Japanese>ETCo2モニタリングに必要なユニット</Japanese>
             <French>Unités souhaitées pour la mesure de ETCo2</French>
             <Russian>Необходимые устройства для мониторинга ETCo2</Russian>
@@ -185,6 +190,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_Allow_NasalCannula">
             <English>Allow Nasal Cannula</English>
+            <German>Nasenkanüle erlauben</German>
             <Japanese>鼻カニューレの許可</Japanese>
             <French>Autoriser la canule nasale</French>
             <Russian>Разрешить использование Назальной Канюли</Russian>
@@ -194,6 +200,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_Allow_NasalCannula_Desc">
             <English>Training level required to insert a Nasal Cannula</English>
+            <German>Benötigter Ausbildungsstand, um eine Nasenkanüle zu nutzen</German>
             <Japanese>鼻カニューレの挿入に必要な医療スキルのレベルを設定します。</Japanese>
             <French>Niveau d'entrainement nécessaire pour insérer la canule nasale</French>
             <Russian>Уровень подготовки, необходимый для установки Назальной Канюли</Russian>
@@ -203,6 +210,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_Time_NasalCannula">
             <English>Time for Nasal Cannula</English>
+            <German>Zeit für den Einsatz der Nasenkanüle</German>
             <Japanese>鼻カニューレの所要時間</Japanese>
             <French>Temps d'insertion de la canule nasale</French>
             <Russian>Время для введения Назальной Канюли</Russian>
@@ -212,6 +220,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_Time_NasalCannula_Desc">
             <English>How long it will take to insert a Nasal Cannula</English>
+            <German>Wie lange es dauert, die Nasenkanüle einzusetzen</German>
             <Japanese>鼻カニューレの挿入にかかる時間を設定します</Japanese>
             <French>Durée nécessaire pour insérer la canule nasale</French>
             <Russian>Сколько времени потребуется, чтобы вставить Назальную Канюлю</Russian>
@@ -275,6 +284,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_Pulseoximeter_Desc_Short">
             <English>Used to read pulse rate and SpO2</English>
+            <German>Wird verwendet, um Puls und Sauerstoffsättigung (SpO2) abzulesen</German>
             <Japanese>脈拍数とSpO2を読み取るのに使用</Japanese>
             <Dutch>Wordt gebruikt om polsslag en SpO2 te meten</Dutch>
             <French>Utilisé pour vérifier le rythme cardiaque et la SpO2</French>
@@ -504,7 +514,7 @@
             <Polish>Pozwól na samo leczenie przy użyciu Chest Seala</Polish>
             <Czech>Povolit vlastní léčení pomocí Hrudní Chlopně</Czech>
             <Italian>Permetti automedicazione con Chest Seal</Italian>
-            <German>Erlauben die Selbstbehandlung mit Chest Seal</German>
+            <German>Selbstbehandlung mit Chest Seal erlauben</German>
             <Spanish>Permitir autotratarse con un sello torácico</Spanish>
             <Portuguese>Permitir auto-tratamento com Selo de Tórax</Portuguese>
             <Finnish>Salli rintatiivisteen käyttö itsellesi</Finnish>
@@ -542,7 +552,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_DESCRIPTION_STABLE_SPO2">
             <English>After reaching more than selected value (default 85), only then patient can get conscious</English>
-            <German>Wenn mehr als der ausgewählte Wert (Standard 85) erreicht ist, kann der Patient erst dann das Bewusstsein wieder erlangen</German>
+            <German>Wenn mehr als der ausgewählte Wert (Standard 85) erreicht ist, kann der Patient erst das Bewusstsein wieder erlangen</German>
             <Polish>Po osiągnięciu wartości większej niż wybrana, pacjent może stać się przytomny. (Domyślna wartość to 85%)</Polish>
             <Spanish>Después de alcanzar más del valor seleccionado (valor predeterminado 85), solo entonces el paciente puede recuperar la consciencia</Spanish>
             <Chinese>達到選定值以上（默認值85）後，患者才能清醒</Chinese>
@@ -950,7 +960,7 @@
             <Portuguese>Quantidade de hemorragia interna causada por hemotórax</Portuguese>
             <French>Quantité de saignements internes de l'hémopneumothorax</French>
             <Polish>Siła krwawienia krwiaka</Polish>
-            <German>Hämopneumothorax inneres Bluten menge </German>
+            <German>Hämopneumothorax: innere Blutmenge </German>
             <Czech>Míra vnitřního krvácení při hemotoraxu</Czech>
             <Finnish>Hemopneumotoraksista tulevan sisäisen verenvuodon määrä</Finnish>
             <Russian>Объем внутреннего кровотечения при гемопневмотораксе</Russian>
@@ -965,7 +975,7 @@
             <Portuguese>Define a quantidade de hemorragia interna que ocorre enquanto sofre de hemotórax</Portuguese>
             <French>Règle la quantité de saignements internes subis lorsqu'une personne souffre d'un hémopneumothorax</French>
             <Polish>Określa siłę krwawienia wewnętrznego, wywołanego przez krwiaka opłucnej</Polish>
-            <German>Definiert die Menge des Blutverlustes, welche der Patient während eines Hämopneumothorax verliert.</German>
+            <German>Definiert die Menge an Blut, welche der Patient während eines Hämopneumothorax verliert.</German>
             <Czech>Nastavuje míru vnitřního krvácení v případě hemotoraxu</Czech>
             <Finnish>Määrittää hemopneumotoraksista johtuvan sisäisen verenvuodon määrän</Finnish>
             <Russian>Регулирует количество внутреннего кровотечения, возникающего при гемопневмотораксе у человека</Russian>
@@ -1457,6 +1467,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_PneumothoraxArrest">
             <English>Enable Pneumothorax Arrest</English>
+            <German>Herzstillstand nach Pneumothorax aktivieren</German>
             <Russian>Включить остановку сердца</Russian>
             <Spanish>Habilitar Parada por Pneumothorax</Spanish>
             <Japanese>気胸による心停止を有効にする</Japanese>
@@ -1466,6 +1477,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_PneumothoraxArrest_DESCRIPTION">
             <English>Enables a chance for cardiac arrest following pneumothorax</English>
+            <German>Es besteht die Chance, dass nach einem Pneumothorax ein Kreislaufstillstand eintritt.</German>
             <Russian>Увеличивает вероятность остановки сердца после Пневмоторакса</Russian>
             <Spanish>Habilitar la probabilidad para parada cardíaca tras un pneumothorax</Spanish>
             <Japanese>気胸発生に付随して心停止となる可能性を有効化します</Japanese>
@@ -1475,6 +1487,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_arrestPneumothorax_interval">
             <English>Deteriorating pneumothorax arrest interval</English>
+            <German>Intervall für Kreislaufstillstand nach Pneumothorax</German>
             <Russian>Ухудшение Пневмоторакса после остановки</Russian>
             <Spanish>Intervalo para paradapor deterioro pneumothorax</Spanish>
             <Japanese>気胸による心停止への悪化の間隔</Japanese>
@@ -1484,6 +1497,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_SETTING_arrestPneumothorax_interval_Desc">
             <English>After each interval a chance will be rolled whether or not a pneumothorax will result in cardiac arrest</English>
+            <German>Nach jedem Intervall wird erneut gewürfelt, ob ein Kreislaufstillstand auftritt</German>
             <Russian>После каждого перерыва будет оцениваться вероятность того, приведет ли Пневмоторакс к остановке сердца или нет</Russian>
             <Spanish>Despues de cada intervalo se sorteará una probabilidad de que el pneumotórax resulte en una parada cardíaca.</Spanish>
             <Japanese>各間隔の後に気胸が心停止につながるかどうかがロールされます</Japanese>
@@ -1633,7 +1647,7 @@
             <Korean>인공호흡기 사용</Korean>
             <Polish>Użyj worka samorozprężalnego</Polish>
             <Japanese>BVMを使用</Japanese>
-            <German>Verwende BVM</German>
+            <German>Verwende Ambu-Beutel (BVM)</German>
             <Czech>Použít RV</Czech>
             <Italian>Usa maschera ambu</Italian>
             <Portuguese>Usar BVM</Portuguese>
@@ -1657,7 +1671,7 @@
             <Japanese>BVMを取り外す</Japanese>
             <French>Ranger le BVM</French>
             <Korean>인공호흡기 내려놓기</Korean>
-            <German>BVM Weglegen</German>
+            <German>Ambu-Beutel Weglegen</German>
             <Portuguese>Remover BVM</Portuguese>
             <Spanish>Guarda el Ambu</Spanish>
             <Finnish>Varastoi BVM</Finnish>
@@ -1669,7 +1683,7 @@
             <Japanese>呼吸補助が中止された</Japanese>
             <French>Annulation du sauvetage avec le BVM</French>
             <Korean>인공호흡 취소됨</Korean>
-            <German>Beatmung mit BVM gestoppt</German>
+            <German>Beatmung gestoppt</German>
             <Portuguese>Ventilação com BVM cancelada</Portuguese>
             <Spanish>Asistencia respiratoria cancelada</Spanish>
             <Finnish>Pelastushengitykset peruttu</Finnish>
@@ -1683,7 +1697,7 @@
             <Korean>인공호흡기 (포켓형) 사용</Korean>
             <Polish>Uzyj kieszonkowego worka samorozprężalnego</Polish>
             <Japanese>携帯式BVMを使用</Japanese>
-            <German>Verwende Tachen BVM </German>
+            <German>Verwende Taschen BVM </German>
             <Czech>Použít Kapesní RV</Czech>
             <Italian>Usa maschera ambu portatile </Italian>
             <Portuguese>Usar BVM portátil</Portuguese>
@@ -1858,7 +1872,7 @@
             <Korean>인공호흡기</Korean>
             <Polish>Worek samorozprężalny</Polish>
             <Japanese>バッグバルブマスク (BVM)</Japanese>
-            <German>BVM</German>
+            <German>Ambu-Beutel (BVM)</German>
             <Czech>RV</Czech>
             <Italian>Maschera ambu</Italian>
             <Portuguese>BVM</Portuguese>
@@ -2236,7 +2250,7 @@
             <Japanese>呼吸を確認</Japanese>
             <French>Vérifier la respiration</French>
             <Korean>호흡 확인</Korean>
-            <German>Überprüfen Atmung</German>
+            <German>Überprüfe Atmung</German>
             <Portuguese>Verificar Respiração</Portuguese>
             <Spanish>Comprueba la respiración</Spanish>
             <Finnish>Tarkista potilaan hengitys</Finnish>
@@ -2284,7 +2298,7 @@
             <Japanese>患者の呼吸は正常</Japanese>
             <French>Le patient respire normalement</French>
             <Korean>환자는 정상적으로 호흡 중이다</Korean>
-            <German>Der Patient atmet normal</German>
+            <German>Patient atmet normal</German>
             <Portuguese>O paciente está respirando normalmente</Portuguese>
             <Spanish>El paciente está respirando con normalidad</Spanish>
             <Finnish>Potilas hengittää normaalisti</Finnish>
@@ -2608,6 +2622,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_NasalCannula_Display">
             <English>Nasal Cannula</English>
+            <German>Nasenkanüle</German>
             <Japanese>鼻カニューレ</Japanese>
             <French>Canule nasale</French>
             <Russian>Назальная Канюля</Russian>
@@ -2617,6 +2632,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_NasalCannula_Desc_Short">
             <English>The Nasal Cannula can be inserted into a patient's nostrils and connected to a vitals monitor to record a patient's ETCo2 level and respiratory rate.</English>
+            <German>Die Nasenkanüle kann einem Pat in die Nase eingeführt werden, um bei angeschlossenem Überwachungs-Monitor den ETCo2-Wert und die Atemfrequenz anzuzeigen.</German>
             <Japanese>鼻カニューレを患者の鼻孔に挿入し、バイタルモニターに接続することで、患者の呼気終末二酸化炭素(ETCo2)レベルと呼吸数を記録することができます。</Japanese>
             <French>La canule nasale peut être insérée dans les narines d'un patient et connectée à un appareil de mesure de constantes vitales pour mesurer le taux de ETCo2 et la fréquence respiratoire du patient.</French>
             <Russian>Назальная канюля может быть вставлена в ноздри пациента и подключена к монитору жизненно важных функций для регистрации уровня ETCo2 у пациента и частоты дыхания.</Russian>
@@ -2626,6 +2642,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_Cancel_NasalCannula">
             <English>Remove Nasal Cannula</English>
+            <German>Nasenkanüle entfernen</German>
             <Japanese>鼻カニューレを取り除く</Japanese>
             <French>Retirer la canule nasale</French>
             <Russian>Удалить Назальную Канюлю</Russian>
@@ -2635,6 +2652,7 @@
         </Key>
         <Key ID="STR_KAT_Breathing_Remove_NasalCannula_Log">
             <English>%1 removed Nasal Cannula</English>
+            <German>%1 hat die Nasenkanüle entfernt</German>
             <Japanese>鼻カニューレを取り除いた</Japanese>
             <French>%1 a retiré la canule nasale</French>
             <Russian>%1 удалил Назальную Канюлю</Russian>
