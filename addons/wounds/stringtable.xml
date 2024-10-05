@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="KAT">
+    <Package name="Wounds">
+        <Key ID="STR_KAT_Wounds_Applying">
+            <English>Applying</English>
+            <German>Verwenden</German>
+        </Key>
+        <Key ID="STR_KAT_Wounds_Apply_Burncover">
+            <English>Apply burn cover</English>
+            <German>Brandwundenverbandtuch verwenden</German>
+        </Key>
+        <Key ID="STR_KAT_Wounds_burncover_displayName">
+            <English>Burn cover</English>
+            <German>Brandwundenverbandtuch</German>
+        </Key>
+        <Key ID="STR_KAT_Wounds_Check_Burn_Degree">
+            <English>Checking burn degree</English>
+            <German>Prüfe Grad der Verbrennung</German>
+        </Key>
+    </Package>
+</Project>
