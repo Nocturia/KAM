@@ -93,6 +93,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_DeployHeliStretcher">
             <English>Deploy Stretcher</English>
+            <German>Trage bereitstellen</German>
             <Polish>Wypuść nosze</Polish>
             <Dutch>Ontplooi brancard</Dutch>
             <Spanish>Desplegar Camilla</Spanish>
@@ -100,6 +101,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_RetractHeliStretcher">
             <English>Retract Stretcher</English>
+            <German>Trage einziehen</German>
             <Polish>Przywołaj nosze</Polish>
             <Dutch>Trek brancard terug</Dutch>
             <Spanish>Recoger Camilla</Spanish>
@@ -107,6 +109,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_DetachHeliStretcher">
             <English>Detach Stretcher</English>
+            <German>Trage abkoppeln</German>
             <Polish>Odczep nosze</Polish>
             <Dutch>Maak brancard los</Dutch>
             <Spanish>Desanclar Camilla</Spanish>
@@ -186,6 +189,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_PackIntoBag">
             <English>Pack into bag</English>
+            <German>In Tasche packen</German>
             <Polish>Spakuj jako torba</Polish>
             <Dutch>Verpak naar een tas</Dutch>
             <Spanish>Empaquetar en bolsa</Spanish>
@@ -193,6 +197,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_PackIntoBackpack">
             <English>Pack into backpack</English>
+            <German>In Rucksack packen</German>
             <Polish>Spakuj jako plecak</Polish>
             <Dutch>Verpak naar een rugzak</Dutch>
             <Spanish>Empaquetar en mochila</Spanish>
@@ -200,6 +205,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_UnpackStretcher">
             <English>Deploy Stretcher</English>
+            <German>Trage auspacken</German>
             <Polish>Rozstaw nosze</Polish>
             <Dutch>Ontplooi brancard</Dutch>
             <Spanish>Desplegar Camilla</Spanish>
@@ -207,6 +213,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_PlaceStretcher_progressBar">
             <English>Placing Stretcher...</English>
+            <German>Trage aufstellen...</German>
             <Polish>Rozkładanie noszy...</Polish>
             <Dutch>Brancard wordt geplaatst</Dutch>
             <Spanish>Colocando Camilla...</Spanish>
@@ -214,6 +221,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_PickupStretcher_progressBar">
             <English>Packing Stretcher...</English>
+            <German>Trage einpacken...</German>
             <Polish>Pakowanie noszy...</Polish>
             <Dutch>Brancard wordt verpakt</Dutch>
             <Spanish>Empaquetando Camilla...</Spanish>
@@ -221,6 +229,7 @@
         </Key>
         <Key ID="STR_KAT_Stretcher_KAT_HeliStretcher">
             <English>KAT Helistretcher</English>
+            <German>KAT Heli-Trage</German>
             <Dutch>KAT helibrancard</Dutch>
             <Spanish>KAT Camilla de Helicóptero</Spanish>
             <Japanese>KAT ヘリコプター用担架</Japanese>
