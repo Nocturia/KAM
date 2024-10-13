@@ -174,6 +174,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Painkillers_DescShort">
             <English>Combat Wound Medication Pill Pack&lt;br/&gt;Used to suppress minor pain and relieve blood incompatibility symptoms</English>
+            <German>Gefechtsverletzungtabletten-Packung, verwendet, um Schmerzen und Blutunverträglichkeitssymptome zu reduzieren</German>
             <Japanese>戦闘傷病治療薬パック&lt;br/&gt;軽度の痛みを抑え、血液不適合による症状を緩和するために使用される</Japanese>
             <Spanish>Paquete de medicación para heridas de combate. Se utiliza para suprimir el dolor leve y aliviar los síntomas de incompatibilidad sanguínea</Spanish>
             <Dutch>Gevechts wond medicatie pil pak&lt;br/&gt;Wordt gebruikt om milde pijn en bloed incompatibiliteit op te lossen</Dutch>
@@ -181,6 +182,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Painkillers_Box_Display">
             <English>Combat Pill Pack</English>
+            <German>Gefechtstabletten-Packung</German>
             <Japanese>戦闘治療薬パック</Japanese>
             <Spanish>Paquete de Comprimidos de Combate</Spanish>
             <Portuguese>Comprimidos de Combate</Portuguese>
@@ -189,6 +191,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Give_CWMP">
             <English>Use CWMP</English>
+            <German>CWMP verwenden</German>
             <Chinesesimp>使用 CWMP*(战斗药物)</Chinesesimp>
             <Japanese>戦闘傷病治療薬を投与</Japanese>
             <Spanish>Usar Comprimidos de Combate</Spanish>
@@ -277,6 +280,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Penthrox_DescShort">
             <English>Volatile anesthetic, used to suppress moderate pain</English>
+            <German>Leichtflüchtiges Anästhetikum, verwendet um mittleren Schmerz zu unterdrücken</German>
             <Japanese>揮発性麻酔薬、 中程度の痛みを抑えるのに使用される</Japanese>
             <Spanish>Anestésico inhalable, utilizado para suprimir el dolor moderado</Spanish>
             <Dutch>volatiel anestheticum, wordt gebruik om stevige pijn te onderdrukken</Dutch>
@@ -662,6 +666,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_PhenylAuto_Box_Display">
             <English>Phenylephrine Autoinjector</English>
+            <German>Phenylephrin Autoinjektor</German>
             <Russian>Автоинъектор фенилэфрина</Russian>
             <Spanish>Autoinyector de Fenilefrina</Spanish>
             <Japanese>フェニレフリン自動注射器</Japanese>
@@ -1181,10 +1186,12 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_IV_FLOW_CONTROL">
             <English>Enable IV/IO Flow Control</English>
+            <German>Infusions-Flusskontrolle aktivieren</German>
             <Japanese>IV/IO流量操作を有効化</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_IV_FLOW_CONTROL_DESC">
             <English>Enables the IV/IO flow control menu which gives the medic fine control over the volume running through the active line</English>
+            <German>Aktiviert das Flusskontrolle-Menü, was dem Medic Kontrolle über die Flüssigkeitsmenge in der aktiven Leitung gibt</German>
             <Japanese>IV/IO流量操作メニューを有効にし、輸液がラインを流れる液量を衛生兵が細かく制御できるようにします。</Japanese>
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Reorientation_Slap">
@@ -1597,6 +1604,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Ketamine_DescShort">
             <English>Dissociative anesthetics, used to suppress severe pain</English>
+            <German>Dissoziatives Anästhetikum, wird verwendet um schweren Schmerz zu unterdrücken</German>
             <Japanese>解離性麻酔薬、 重度の痛みを抑えるのに使用される</Japanese>
             <Spanish>Anestésico disociativo, utilizado para suprimir el dolor severo</Spanish>
             <Dutch>Dissociatieve anestheticum, wordt gebruikt om ernstige pijn te onderdrukken</Dutch>
@@ -1636,6 +1644,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Fentanyl_DescShort">
             <English>Opioid analgesic, used to suppress severe pain</English>
+            <German>Opioid-Schmerzmittel, wird verwendet um schweren Schmerz zu unterdrücken</German>
             <Polish>Opioidowy środek przeciwbólowy, stosowany do tłumienia silnego bólu</Polish>
             <Japanese>オピオイド鎮痛薬、 重度の痛みを抑えるのに使用される</Japanese>
             <Spanish>Analgésico opioide, utilizado para suprimir el dolor severo</Spanish>
@@ -1676,6 +1685,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Nalbuphine_DescShort">
             <English>Opioid analgesic, used to suppress moderate pain</English>
+            <German>Opioid-Schmerzmittel, wird verwendet, um moderaten Schmerz zu unterdrücken</German>
             <Polish>Opioidowy środek przeciwbólowy, stosowany do tłumienia umiarkowanego bólu</Polish>
             <Japanese>オピオイド鎮痛薬、 中程度の痛みを抑えるのに使用される</Japanese>
             <Spanish>Analgésico opioide, utilizado para suprimir el dolor moderador</Spanish>
@@ -2861,6 +2871,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Pervitin_Capsule_DescShort">
             <English>Performance enhancing drug, used to suppress moderate pain</English>
+            <German>Leistungssteigernde Droge, beseitigt nebenher noch mittlere Schmerzen</German>
             <Japanese>疲労の防止と回復に! 疲労をポンと取ってくれます。 中程度の鎮痛作用がある。</Japanese>
             <Polish>Środek zwiększający wydolność, stosowany do tłumienia umiarkowanego bólu</Polish>
             <Spanish>Fármaco para mejorar el rendimiento, utilizado para suprimir el dolor moderado</Spanish>
@@ -3035,6 +3046,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_Caffeine_Bottle_DescShort">
             <English>Stimulates the central nervous system and energizes</English>
+            <German>Stimuliert das zentrale Nervensystem und gibt Energie</German>
             <Japanese>中枢神経を刺激し、活力を与える</Japanese>
             <Polish>Stymuluje centralny układ nerwowy i dodaje energii</Polish>
             <Spanish>Estimula el sistema nervioso central y aporta energía.</Spanish>
@@ -3224,6 +3236,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_EACA_Trauma">
             <English>EACA Clears Trauma</English>
+            <German>EACA beseitigt Traumata</German>
             <Russian>EACA устраняет травму</Russian>
             <Spanish>EACA Elimina el Trauma</Spanish>
             <Japanese>EACAによる外傷の除去</Japanese>
@@ -3233,6 +3246,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_EACA_Trauma_Desc">
             <English>Allows Trauma to be cleared by EACA in addition to stitching</English>
+            <German>EACA kann analog zum Nähen Traumata verschwinden lassen</German>
             <Russian>Позволяет устранить травму с помощью EACA в дополнение к наложению швов</Russian>
             <Spanish>Permite eliminar el Trauma mediante el EACA además de cosiendo</Spanish>
             <Japanese>EACAによる効果として縫合に加え、外傷の除去を可能にします。</Japanese>
@@ -3242,6 +3256,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_allowStackScript_TXA">
             <English>Allow Stacking</English>
+            <German>Erlaube stapeln</German>
             <Japanese>重複の許可</Japanese>
             <Spanish>Permitir acumulación</Spanish>
             <Dutch>Sta stapelen toe</Dutch>
@@ -3249,6 +3264,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_allowStackScript_TXA_DESC">
             <English>If enabled TXA will be stackable and double it's efficiency</English>
+            <German>Bei gesetztem Haken wird TXA stapelbar und wird doppelt so effizient</German>
             <Japanese>有効にすると、TXAの重複が可能になり、効率が2倍になります。</Japanese>
             <Spanish>Si el ATX esta permitido, se podrá acumular y duplicará su eficiencia</Spanish>
             <Dutch>Wanneer ingeschakeld: sta het stapelen van TXA toe, wat de effectiviteit verdubbeld)</Dutch>
