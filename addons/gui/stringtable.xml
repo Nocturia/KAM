@@ -95,138 +95,161 @@
         </Key>
         <Key ID="STR_KAT_GUI_HeadCover">
             <English>HEAD - NO LINE</English>
+            <German>KOPF - KEIN ANSCHLUSS</German>
             <Dutch>HOOFD - GEEN LIJN</Dutch>
             <Spanish>CABEZA - SIN LINEA</Spanish>
             <Japanese>頭部 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_ChestCover">
             <English>CHEST - NO LINE</English>
+            <German>TORSO - KEIN ANSCHLUSS</German>
             <Dutch>TORSO - GEEN LIJN</Dutch>
             <Spanish>TORSO - SIN LINEA</Spanish>
             <Japanese>胸部 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_RArmCover">
             <English>RIGHT ARM - NO LINE</English>
+            <German>RECHTER ARM - KEIN ANSCHLUSS</German>
             <Dutch>RECHTERARM - GEEN LIJN</Dutch>
             <Spanish>BRAZO DERECHO - SIN LINEA</Spanish>
             <Japanese>右腕 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_LArmCover">
             <English>LEFT ARM - NO LINE</English>
+            <German>LINKER ARM - KEIN ANSCHLUSS</German>
             <Dutch>LINKERARM - GEEN LIJN</Dutch>
             <Spanish>BRAZO IZQUIERDO - SIN LINEA</Spanish>
             <Japanese>左腕 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_RLegCover">
             <English>RIGHT LEG - NO LINE</English>
+            <German>RECHTES BEIN - KEIN ANSCHLUSS</German>
             <Dutch>RECHTERBEEN - GEEN LIJN</Dutch>
             <Spanish>PIERNA DERECHA - SIN LINEA</Spanish>
             <Japanese>右脚 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_LLegCover">
             <English>LEFT LEG - NO LINE</English>
+            <German>LINKES BEIN - KEIN ANSCHLUSS</German>
             <Dutch>LINKERBEEN - GEEN LIJN</Dutch>
             <Spanish>PIERNA IZQUIERDA - SIN LINEA</Spanish>
             <Japanese>左脚 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_IVFlowTitle">
             <English>IV Flow Control</English>
+            <German>Infusions-Flusskontrolle</German>
             <Dutch>IV-Stroomregeling</Dutch>
             <Spanish>Control de Flujo IV</Spanish>
             <Japanese>IV流量操作</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_ABGTitle">
             <English>ABG Results</English>
+            <German>ABG Ergebnisse</German>
             <Dutch>ABG resultaten</Dutch>
             <Spanish>Resultados ABG</Spanish>
             <Japanese>ABG 結果</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_IVValue">
             <English>0.0</English>
+            <German>0.0</German>
             <Dutch>0.0</Dutch>
             <Spanish>0.0</Spanish>
             <Japanese>0.0</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_HeadTitle">
             <English>Head</English>
+            <German>Kopf</German>
             <Dutch>Hoofd</Dutch>
             <Spanish>Cabeza</Spanish>
             <Japanese>頭部</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_HeadType">
             <English>IV</English>
+            <German>Infusion</German>
             <Dutch>IV</Dutch>
             <Spanish>IV</Spanish>
             <Japanese>IV</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_ChestTitle">
             <English>Chest</English>
+            <German>Torso</German>
             <Dutch>Torso</Dutch>
             <Spanish>Torso</Spanish>
             <Japanese>胸部</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_ChestType">
             <English>IV</English>
+            <German>Infusion</German>
             <Dutch>IV</Dutch>
             <Spanish>IV</Spanish>
             <Japanese>IV</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_LArmTitle">
             <English>LA</English>
+            <German>LA</German>
             <Dutch>LA</Dutch>
             <Spanish>BI</Spanish>
             <Japanese>左腕</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_LArmType">
             <English>IV</English>
+            <German>Infusion</German>
             <Dutch>IV</Dutch>
             <Spanish>IV</Spanish>
             <Japanese>IV</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_RArmTitle">
             <English>RA</English>
+            <German>RA</German>
             <Dutch>RA</Dutch>
             <Spanish>BD</Spanish>
             <Japanese>右腕</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_RArmType">
             <English>IV</English>
+            <German>Infusion</German>
             <Dutch>IV</Dutch>
             <Spanish>IV</Spanish>
             <Japanese>IV</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_LLegTitle">
             <English>LL</English>
+            <German>LB</German>
             <Dutch>LB</Dutch>
             <Spanish>PI</Spanish>
             <Japanese>左脚</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_LLegType">
             <English>IV</English>
+            <German>Infusion</German>
             <Dutch>IV</Dutch>
             <Spanish>IV</Spanish>
             <Japanese>IV</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_RLegTitle">
             <English>RL</English>
+            <German>RB</German>
             <Dutch>RB</Dutch>
             <Spanish>PD</Spanish>
             <Japanese>右脚</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_RLegType">
             <English>IV</English>
+            <German>Infusion</German>
             <Dutch>IV</Dutch>
             <Spanish>IV</Spanish>
             <Japanese>IV</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_BGBlank">
             <English>--.-</English>
+            <German>--.-</German>
             <Dutch>--.-</Dutch>
             <Spanish>--.-</Spanish>
             <Japanese>--.-</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_TestReset">
             <English>Reset</English>
+            <German>Zurücksetzen</German>
             <Dutch>Reset</Dutch>
             <Spanish>Restaurar</Spanish>
             <Japanese>リセット</Japanese>
