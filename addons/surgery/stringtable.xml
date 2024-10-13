@@ -527,6 +527,7 @@
             <English>Close Incision</English>
             <Dutch>Sluit incisie</Dutch>
             <Spanish>Cerrar Incisión</Spanish>
+            <Japanese>切開口を閉じる</Japanese>
         </Key>
         <Key ID="STR_KAT_Surgery_Plate_Display">
             <English>Bone Plate</English>
@@ -1639,6 +1640,7 @@
         </Key>
         <Key ID="STR_KAT_Surgery_SETTING_Anesthesia">
             <English>Surgery Anesthesia</English>
+            <Chinesesimp>手术麻醉</Chinesesimp>
             <Japanese>手術を麻酔下で行う</Japanese>
             <Spanish>Anestesia quirúrgica</Spanish>
             <French>Anesthésie chirurgicale</French>

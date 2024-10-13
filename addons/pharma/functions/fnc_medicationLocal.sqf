@@ -20,6 +20,9 @@
 
 // todo: move this macro to script_macros_medical.hpp?
 #define MORPHINE_PAIN_SUPPRESSION 0.6
+// 0.2625 = 0.6/0.8 * 0.35
+// 0.6 = basic medication morph. pain suppr., 0.8 = adv. medication morph. pain suppr., 0.35 = adv. medication painkillers. pain suppr.
+#define PAINKILLERS_PAIN_SUPPRESSION 0.2625
 
 params ["_patient", "_bodyPart", "_classname"];
 TRACE_3("medicationLocal",_patient,_bodyPart,_classname);
@@ -40,15 +43,16 @@ if !(ACEGVAR(medical_treatment,advancedMedication)) exitWith {
                 [QACEGVAR(medical,WakeUp), _patient] call CBA_fnc_localEvent;
             };
 
-            [_patient, -0.15] call FUNC(alphaAction);
         };
         case "EpinephrineIV": {
             private _sedated = _patient getVariable [QEGVAR(surgery,sedated), false];
             if !(_sedated) then {
                 [QACEGVAR(medical,WakeUp), _patient] call CBA_fnc_localEvent;
             };
-
-            [_patient, -0.30] call FUNC(alphaAction);
+        };
+        case "Painkillers": {
+            private _painSuppress = GET_PAIN_SUPPRESS(_patient);
+            _patient setVariable [VAR_PAIN_SUPP, (_painSuppress + PAINKILLERS_PAIN_SUPPRESSION) min 1, true];
         };
     };
 };
@@ -109,10 +113,6 @@ TRACE_3("adjustments",_heartRateChange,_painReduce,_viscosityChange);
 
 // Check for medication compatiblity
 [_patient, _className, _maxDose, _maxDoseDeviation, _incompatibleMedication] call ACEFUNC(medical_treatment,onMedicationUsage);
-
-//Change Alpha Factor
-[_patient, _alphaFactor] call FUNC(alphaAction);
-
 
 if (_className in ["Lorazepam","EACA","TXA","Atropine","Amiodarone","Flumazenil"]) then {
     [format ["kat_pharma_%1Local", toLower _className], [_patient, _bodyPart], _patient] call CBA_fnc_targetEvent;
