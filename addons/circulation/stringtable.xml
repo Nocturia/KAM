@@ -1692,24 +1692,28 @@
             <Dutch>%1 bloedstaal</Dutch>
             <Spanish>%1 Muestra de sangre</Spanish>
             <Japanese>%1 血液サンプル</Japanese>
+            <German>%1 Blutprobe</German>
         </Key>
         <Key ID="STR_KAT_Circulation_Arterial_Test_Action">
             <English>Run ABG Test</English>
             <Dutch>Voer ABG test uit</Dutch>
             <Spanish>Realizar prueba ABG</Spanish>
             <Japanese>ABGテストを行う</Japanese>
+            <German>Aterielle Blutgasanlyes test durchführen</German>
         </Key>
         <Key ID="STR_KAT_Circulation_Arterial_Test">
             <English>ABG Test</English>
             <Dutch>ABG test</Dutch>
             <Spanish>Prueba ABG</Spanish>
             <Japanese>ABGテスト</Japanese>
+            <German>Aterielle Blutgasanlyes Test</German>
         </Key>
         <Key ID="STR_KAT_Circulation_Apply_Arterial_Test">
             <English>Apply %1 Test</English>
             <Dutch>Voer %1 test uit</Dutch>
             <Spanish>Realizar prueba %1</Spanish>
             <Japanese>%1 テストを実施</Japanese>
+            <German>%1 Test durchführen</German>
         </Key>
         <Key ID="STR_KAT_Circulation_crosspanel">
             <English>Blood groups cheat sheet</English>
@@ -2628,18 +2632,21 @@
             <Dutch>Neem Arterieel bloedstaal</Dutch>
             <Spanish>Extraer muestra arterial</Spanish>
             <Japanese>動脈サンプルを採る</Japanese>
+            <German>Ziehe Arterielle Probe</German>
         </Key>
         <Key ID="STR_KAT_Circulation_sampleItemName">
             <English>Blood Sample</English>
             <Dutch>Bloedstaal</Dutch>
             <Spanish>Muestra de sangre</Spanish>
             <Japanese>血液サンプル</Japanese>
+            <German>Blutprobe</German>
         </Key>
         <Key ID="STR_KAT_Circulation_resultItemName">
             <English>ABG Result</English>
             <Dutch>ABG resultaat</Dutch>
             <Spanish>Resultado ABG</Spanish>
             <Japanese>ABG結果</Japanese>
+            <German>Aterielle Blutgasanlyes Testergebnis</German>
         </Key>
         <Key ID="STR_KAT_Circulation_DrawBlood_Action_Progress">
             <English>Drawing Blood</English>
@@ -3025,6 +3032,7 @@
             <Spanish>DEA-X: RC: %1 PS: --/-- SpO2: --- ETCo2: %2 Respiraciones/min: %3</Spanish>
             <Portuguese>DEA-X: FC: %1 PA: --/-- SpO2: --- ETCo2: %2 Respirações/min: %3</Portuguese>
             <Dutch>AED-X: HR %1 BD: --/-- SpO2: --- ETCo2: %2 Ademhalingen/min: %3</Dutch>
+            <German>AED-X: HF: %1 BP(RR): --/-- SpO2: --- ETCo2: %2 Atemzüge/min: %3</German>
         </Key>
         <Key ID="STR_KAT_Circulation_VitalsMonitor_VMActive_StatusLog_HasEtco2Monitor">
             <English>AED-X: PR: %1 BP: %2/%3 SpO2: %4 ETCo2: %5 Breaths/min: %6</English>
@@ -3034,6 +3042,7 @@
             <Spanish>DEA-X: RC: %1 PS: %2/%3 SpO2: %4 ETCo2: %5 Respiraciones/min: %6</Spanish>
             <Portuguese>DEA-X: FP: %1 PA: %2/%3 SpO2: %4 ETCo2: %5 Respirações/min: %6</Portuguese>
             <Dutch>AED-X: PR %1 BD: %2/%3 SpO2: %4 ETCo2: %5 Ademhalingen/min: %6</Dutch>
+            <German>AED-X: HF: %1 BP(RR): %2/%3 SpO2: %4 ETCo2: %5 Atemzüge/min: %6</German>
         </Key>
         <Key ID="STR_KAT_Circulation_VitalsMonitor_StatusLog_HasEtco2Monitor">
             <English>AED-X: HR: %1 BP: %2/%3 SpO2: %4  ETCo2: %5 Breaths/min: %6</English>
@@ -3043,6 +3052,7 @@
             <Spanish>DEA-X: RC: %1 PS: %2/%3 SpO2: %4  ETCo2: %5 Respiraciones/min: %6</Spanish>
             <Portuguese>DEA-X: FC: %1 PA: %2/%3 SpO2: %4 ETCo2: %5 Respirações/min: %6</Portuguese>
             <Dutch>AED-X: HR %1 BD: %2/%3 SpO2: %4 ETCo2: %5 Ademhalingen/min: %6</Dutch>
+            <German>AED-X: HF: %1 BP(RR): %2/%3 SpO2: %4 ETCo2: %5 Atemzüge/min: %6</German>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_AED_X_VitalsMonitor_SoundsSelect">
             <English>AED-X Vitals Monitor Sounds</English>
@@ -3174,6 +3184,7 @@
             <French>Chance de tamponnade au cours d'une blessure pénétrante</French>
             <Portuguese>Probabilidade de tamponamento em ferimentos penetrantes</Portuguese>
             <Dutch>Kans voor tamponade door penetrerende wonden</Dutch>
+            <German>Wahrscheinlichkeit für Tamponade bei tiefen Verletzungen</German>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_tamponadeInterval">
             <English>Tamponade progression timer</English>
@@ -3183,6 +3194,7 @@
             <French>Timer de progression de la tamponnade</French>
             <Portuguese>Temporizador de progresso de tamponamento</Portuguese>
             <Dutch>Tamponade progressie timer</Dutch>
+            <German>Tamponade Fortschritts Zeit</German>
         </Key>
         <Key ID="STR_KAT_Circulation_SETTING_tamponadeChance_deterioration">
             <English>Tamponade progression chance</English>
@@ -3192,6 +3204,7 @@
             <French>Chance de progression de la tamponnade</French>
             <Portuguese>Probabilidade de progressão de tamponamento</Portuguese>
             <Dutch>Tamponade progressie kans</Dutch>
+            <German>Tamponade Fortschritts Wahrscheinlichkeit</German>
         </Key>
     </Package>
 </Project>
