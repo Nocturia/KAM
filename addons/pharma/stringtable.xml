@@ -3408,6 +3408,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_Factor_Regenerate_Time">
             <English>Coagulation Factor Regeneration Cycle</English>
+            <German>Regenerationszyklen für Gerinnungsfaktoren</German>
             <Japanese>凝固因子再生サイクル</Japanese>
             <Spanish>Ciclo de Regeneración del Factor de Coagulación</Spanish>
             <Dutch>Stollingsfactor hergeneratiecyclus</Dutch>
@@ -3422,6 +3423,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allowOnAI">
             <English>Affect AI</English>
+            <German>Beeinflusst KI</German>
             <Japanese>AIへの影響</Japanese>
             <Spanish>Afecta a la IA</Spanish>
             <Dutch>Beïnvloed AI/KI</Dutch>
@@ -3436,6 +3438,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_tourniquetBlock">
             <English>Tournique Blocks Blood Clotting</English>
+            <German>Tourniquet unterbindet Blutgerinnung</German>
             <Japanese>止血帯による血液凝固の妨げ</Japanese>
             <Spanish>Torniquete Bloquea la Coagulación de la Sangre</Spanish>
             <Dutch>Tourniquets blokkeren wondstolling</Dutch>
@@ -3450,6 +3453,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_MinorWounds">
             <English>Affect Minor Wounds</English>
+            <German>Beeinflusst kleine Verletzungen</German>
             <Japanese>小さな創傷への影響</Japanese>
             <Spanish>Afecta a Heridas Menores</Spanish>
             <Dutch>Beïnvloed kleine wonden</Dutch>
@@ -3457,6 +3461,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_MinorWounds_DESC">
             <English>Allow coagulation to affect minor wounds when clotting</English>
+            <German>Erlaubt Blutgerinnung für kleine Verletzungen</German>
             <Japanese>小さな創傷に対して凝固が影響することを許可する</Japanese>
             <Spanish>Permitir que la coagulación afecte a heridas leves al coagularse</Spanish>
             <Dutch>Staat toe dat coagulatie kleine wonden beïnvloed tijdens het stollen</Dutch>
@@ -3464,6 +3469,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_MediumWounds">
             <English>Affect Medium Wounds</English>
+            <German>Beeinflusst mittlere Verletzungen</German>
             <Japanese>中くらいの創傷への影響</Japanese>
             <Spanish>Afecta a Heridas Medias</Spanish>
             <Dutch>Beïnvloed middelgrote wonden</Dutch>
@@ -3471,6 +3477,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_MediumWounds_DESC">
             <English>Allow coagulation to affect medium wounds when clotting</English>
+            <German>Erlaubt Blutgerinnung für mittlere Verletzungen</German>
             <Japanese>中くらいの創傷に対して凝固が影響することを許可する</Japanese>
             <Spanish>Permitir que la coagulación afecte a heridas medias al coagularse</Spanish>
             <Dutch>Staat toe dat coagulatie middelgrote wonden beïnvloed tijdens het stollen</Dutch>
@@ -3478,6 +3485,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_LargeWounds">
             <English>Affect Large Wounds</English>
+            <German>Beeinflusst große Verletzungen</German>
             <Japanese>大きな創傷への影響</Japanese>
             <Spanish>Afecta a Heridas Severas</Spanish>
             <Dutch>Beïnvloed grote wonden</Dutch>
@@ -3485,6 +3493,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_LargeWounds_DESC">
             <English>Allow coagulation to affect large wounds when clotting</English>
+            <German>Erlaubt Blutgerinnung für große Verletzungen</German>
             <Japanese>大きな創傷に対して凝固が影響することを許可する</Japanese>
             <Spanish>Permite que la coagulación afecte a heridas severas al coagularse</Spanish>
             <Dutch>Staat toe dat coagulatie grote wonden beïnvloed tijdens het stollen</Dutch>
@@ -3492,6 +3501,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_TXA_script">
             <English>Allow Additional TXA Bandaging</English>
+            <German>Erlaube zusätzliche TXA Wundschließungen</German>
             <Japanese>TXAによる追加の"包帯"を許可する</Japanese>
             <Spanish>Permitir el Vendaje ATX Adicional</Spanish>
             <Dutch>Sta additionele TXA dichtingen toe</Dutch>
@@ -3499,6 +3509,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_TXA_script_DESC">
             <English>If enabled TXA will keep all functionality and start bandaging wounds itself</English>
+            <German>Wenn aktiviert, behält TXA die gesamte Funktionalität und beginnt Verletzungen selbstständig zu versorgen</German>
             <Japanese>有効にすると、TXAがすべての機能を保持し、自身に"包帯"を適用するようになります。</Japanese>
             <Spanish>Si el ATX esta permitido, mantendrá toda la funcionalidad y empezará a vendar las heridas por si mismo</Spanish>
             <Dutch>TXA houdt zijn functionaliteit en zal wonden dichten wanneer deze instelling actief is.</Dutch>
@@ -3506,6 +3517,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_EACA_script">
             <English>Allow Additional EACA Stiching</English>
+            <German>Erlaubt zusätzliches Nähen durch EACA</German>
             <Japanese>EACAによる追加の"縫合"を許可する</Japanese>
             <Spanish>Permitir la Sutura EACA Adicional</Spanish>
             <Dutch>Sta additionele EACA hechtingen toe</Dutch>
@@ -3513,6 +3525,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_EACA_script_DESC">
             <English>If enabled EACA will keep all functionality and start stitching bandaged wounds</English>
+            <German>Wenn aktiviert, behält EACA die gesamte Funktionalität und beginnt Verletzungen selbstständig zu nähen</German>
             <Japanese>有効にすると、EACAがすべての機能を保持し、自身に"縫合"を適用するようになります。</Japanese>
             <Spanish>Si el EACA esta permitido, mantendrá la funcionalidad y empezará a suturar las heridas vendadas</Spanish>
             <Dutch>EACA houdt zijn functionaliteit en zal wonden hechten wanneer deze instelling actief is.</Dutch>
@@ -3520,6 +3533,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_on_all_Bodyparts">
             <English>Simultaneous Bodypart Coagulation</English>
+            <German>Gleichzeitige Blutgerinnung an allen Körperteilen</German>
             <Japanese>身体部位の同時凝固</Japanese>
             <Spanish>Coagulación Simultanea de las Partes del Cuerpo</Spanish>
             <Dutch>Gelijktijdige coagulatie</Dutch>
@@ -3534,6 +3548,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_coagulation_Factor_Limit">
             <English>Coagulation Factor Limit</English>
+            <German>Blutgerinnungsfaktoren-Limit</German>
             <Japanese>凝固因子の限界値</Japanese>
             <Spanish>Limite del Factor de Coagulación</Spanish>
             <Dutch>Stollingsfactor limiet</Dutch>
@@ -3548,6 +3563,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_clot_text">
             <English>Allow Clots To Be Shown in Menu</English>
+            <German>Zeige Verklumpungen im Menü an</German>
             <Japanese>メニューに血栓を表示する</Japanese>
             <Spanish>Permitir que los Coágulos se muestren en el Menú</Spanish>
             <Dutch>Sta toe dat stollingen worden weergeven in het menu</Dutch>
@@ -3555,6 +3571,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_allow_clot_text_DESC">
             <English>If enabled, when coagulation is bandaging a wound it will add a interaction log to the medical menu.</English>
+            <German>Wenn aktiviert, wird bei Blutgerinnung eine Interaktionsnachricht im Menü hinzugefügt.</German>
             <Japanese>有効にすると、凝固が傷に包帯を適用しているときに、医療メニューのログに追加されます。</Japanese>
             <Spanish>Si se activa, cuando la coagulación esté vendando una herida añadirá un registro de interacción al menú médico.</Spanish>
             <Dutch>Wanneer dit is ingeschakeld is worden gestolde wonden toegevoegd aan de interactie log van het medisch menu.</Dutch>
@@ -3562,6 +3579,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_coagulation_Bandaged">
             <English>Blood clotting temporarily closed a wound on %1</English>
+            <German>Blutgerinnung hat eine Wunde am %1 temporär verschlossen</German>
             <Japanese>血液凝固が一時的に %1 の創傷を塞いだ</Japanese>
             <Spanish>La coagulación sanguínea cerró temporalmente una herida en %1</Spanish>
             <Portuguese>Coagulação estancou temporariamente um ferimento em %1</Portuguese>
@@ -3570,6 +3588,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_coagulation_Bandaged_TXA">
             <English>Blood clotting permanently closed a wound on %1</English>
+            <German>Blutgerinnung hat eine Wunde am %1 permanent verschlossen</German>
             <Japanese>血液凝固が完全に %1 の創傷を塞いだ</Japanese>
             <Spanish>La coagulación sanguínea cerro permanentemente una herida en %1</Spanish>
             <Portuguese>Coagulação estancou permanentemente um ferimento em %1</Portuguese>
