@@ -3272,6 +3272,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_keepScriptRunning_TXA">
             <English>Keep Bandaging Until Out Of System</English>
+            <German>Bandagiere, bis TXA aus dem System ist</German>
             <Japanese>体内に効果が無くなるまで"包帯"を適用する</Japanese>
             <Spanish>Mantiene el Vendaje hasta que desaparezca del organismo</Spanish>
             <Dutch>Blijf verbinden tot uit het systeem</Dutch>
@@ -3279,6 +3280,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_keepScriptRunning_TXA_DESC">
             <English>If enabled TXA will keep bandaging until it's out of your system\nIf disabled TXA will stop working after bandaging the last wound it can find</English>
+            <German>Wenn dies aktiviert ist, verbindet TXA bis es verstoffwechselt wurde. \nWenn dies deaktiviert ist, hört TXA nach der letzten verbundenen Wunde auf zu wirken.</German>
             <Japanese>有効にすると、TXAが体内から無くなるまで傷口に"包帯"を巻きます。 \n無効にすると、TXAが判定済の最後の創傷に"包帯"を適用した後に、その作用を終了します。</Japanese>
             <Spanish>Si el ATX esta permitido, seguirá vendando hasta que desaparezca del organismo\nSi el ATX no esta permitido, dejará de funcionar después de vendar la última herida que pueda encontrar</Spanish>
             <Dutch>Wanneer ingeschakeld: TXA blijft verbinden tot het uit jouw systeem is.\nWanneer uitgeschakeld: TXA Stopt met werken wanneer alle wonden gedicht zijn.</Dutch>
@@ -3286,6 +3288,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_bandageCycleTime_TXA">
             <English>TXA Cycle Time</English>
+            <German>Zykluszeit TXA</German>
             <Japanese>TXAサイクル時間</Japanese>
             <Spanish>Ciclo de tiempo del ATX</Spanish>
             <Dutch>TXA cyclustijd</Dutch>
@@ -3293,6 +3296,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_bandageCycleTime_TXA_DESC">
             <English>The time it takes for TXA to close a wound</English>
+            <German>Wie lange es dauert, bis TXA eine Wunde geschlossen hat</German>
             <Japanese>TXAが創傷を塞ぐのに掛かる時間</Japanese>
             <Spanish>El tiempo que tarda el ATX en cerrar una herida</Spanish>
             <Dutch>Hoe lang het duurt voordat TXA een wond dicht</Dutch>
@@ -3300,6 +3304,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SubCategory_Coagulation">
             <English>Coagulation Settings</English>
+            <German>Wundgerinnungs-Einstellungen</German>
             <Japanese>凝固設定</Japanese>
             <Spanish>Configuración de la coagulación</Spanish>
             <Portuguese>Configurações de coagulação</Portuguese>
@@ -3308,6 +3313,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_requireHR">
             <English>Require Heart Rate</English>
+            <German>Erfordert Herzschlag</German>
             <Japanese>心拍を要求する</Japanese>
             <Spanish>Requiere Ritmo Cardiaco</Spanish>
             <Dutch>Vereist hartslag</Dutch>
@@ -3315,6 +3321,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_requireHR_DESC">
             <English>Should coagulation require a heart rate above 20BPM? (Doing CPR will keep HR above 20BPM)</English>
+            <German>Benötigt die Blutgerinnung eine Herzfrequenz über 20 bpm? (HLW hält die Herzfrequenz über 20 bpm)</German>
             <Japanese>凝固が作用するのに20BPM以上の心拍数を必要とさせます (CPRを行うことで心拍数は20BPM以上を保つことが出来ます)</Japanese>
             <Spanish>La coagulación requerirá de un ritmo cardiaco superior a 20 PPM (Hacer RCP mantendrá el RC por encima de 20 PPM)</Spanish>
             <Dutch>Is een hartslag van meer dan 20SPM benodigt voor coagulatie? (Het uitvoeren van CPR houdt de hartslag boven 20SPM)</Dutch>
@@ -3322,6 +3329,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_requireBV">
             <English>Required Blood Volume</English>
+            <German>Benötigtes Blutvolumen</German>
             <Japanese>血液量を要求する</Japanese>
             <Spanish>Volumen de sangre requerido</Spanish>
             <Dutch>Benodigd bloedvolume</Dutch>
@@ -3329,6 +3337,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_requireBV_DESC">
             <English>Minimum volume of blood required for coagulation to work</English>
+            <German>Nötiges Blutvolumen, sodass die Blutgerinnung funktionieren kann</German>
             <Japanese>凝固の作用に最低限必要な血液の量</Japanese>
             <Spanish>Volumen de sangre necesario para que la coagulación funcione</Spanish>
             <Dutch>Het minimale bloedvolume dat vereist is voor coagulatie om te werken</Dutch>
@@ -3336,6 +3345,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_FactorCount">
             <English>Coagulation Factors</English>
+            <German>Blutgerinnungsfaktoren</German>
             <Japanese>凝固因子</Japanese>
             <Spanish>Factores de Coagulación</Spanish>
             <Dutch>Stollingsfactoren</Dutch>
@@ -3343,6 +3353,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_FactorCount_DESC">
             <English>The amount of coagulation factors that get set on unit spawn &amp; be kept as limit for factor regeneration</English>
+            <German>DIe Menge an Blutgerinnungsfaktoren, die eine Einheit beim Erzeugen erhält und werden als Limit für die Faktorregeneration benutzt</German>
             <Japanese>ユニットのスポーン時に定義される凝固因子の量と、因子の再生限界値</Japanese>
             <Spanish>La cantidad de factores de coagulación que se establecen al spawnear y se mantienen como límite para la regeneración de factores</Spanish>
             <Dutch>De hoeveelheid stollingsfactoren dat een eenheid krijgt op spawn en als limiet wordt gebruik voor hergeneratie</Dutch>
@@ -3350,6 +3361,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_Time">
             <English>Clotting Cycle Time</English>
+            <German>Gerinnungsdauer</German>
             <Japanese>凝血サイクル時間</Japanese>
             <Spanish>Duración del ciclo de coagulación</Spanish>
             <Dutch>Stollingscyclustijd</Dutch>
@@ -3357,6 +3369,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_Time_DESC">
             <English>The time between each wound clotting cycle that start wound clotting. (low number may cause lag)</English>
+            <German>Zeit zwischen de nZyklen, in denen eine Wunde durch Blutgerinnung geschlossen werden kann. (Geringe Werte können Lags ergeben)</German>
             <Japanese>創傷の凝血を開始する各凝血サイクル間の時間の長さ。(低い数値はラグを招く恐れがあります)</Japanese>
             <Spanish>El tiempo entre cada ciclo de coagulación de la herida que inicia la coagulación. (Un número bajo puede causar lag)</Spanish>
             <Dutch>De hoeveelheid tijd tussen elke wondstollingscyclus. (een laag nummer kan leiden tot lag)</Dutch>
@@ -3364,6 +3377,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_Time_Minor">
             <English>Minor Wounds Clotting Time</English>
+            <German>Gerinnungsdauer für kleine Verletzungen</German>
             <Japanese>小さな創傷の凝血時間</Japanese>
             <Spanish>Tiempo de coagulación de Heridas Leves</Spanish>
             <Dutch>Kleine wonden stollingstijd</Dutch>
@@ -3371,6 +3385,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_Time_Medium">
             <English>Medium Wounds Clotting Time</English>
+            <German>Gerinnungsdauer für mittlere Verletzungen</German>
             <Japanese>中くらいの創傷の凝血時間</Japanese>
             <Spanish>Tiempo de coagulación de Heridas Medias</Spanish>
             <Dutch>Middelgrote wonden stollingstijd</Dutch>
@@ -3378,6 +3393,7 @@
         </Key>
         <Key ID="STR_KAT_Pharma_SETTING_Coagulation_Time_Large">
             <English>Large Wounds Clotting Time</English>
+            <German>Gerinnungsdauer für große Verletzungen</German>
             <Japanese>大きな創傷の凝血時間</Japanese>
             <Spanish>Tiempo de coagulación de Heridas Severas</Spanish>
             <Dutch>Grote wonden stollingstijd</Dutch>
