@@ -5,9 +5,12 @@ In here, I want to put all that needs to be done, all that is in progress, and a
 ## Done
 - Basic file structure
 - added Burn cover
+- added face burncover
 - added new burn types in a naive way (check for compliance and functionality)
+- Stringtable (english / German)
 
 ## In Progress
+- Making times for burncover application variable by config settings
 
 ## Needs to be done
 - picture for burn cover
@@ -15,6 +18,7 @@ In here, I want to put all that needs to be done, all that is in progress, and a
 - XEH stuff
 - Functions
 - Accordance to standards has to be checked
+- Stringtable (other languages)
 
 # Concept for now
 

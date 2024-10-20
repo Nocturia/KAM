@@ -12,4 +12,14 @@ class ACE_Medical_Treatment_Actions {
         items[] = {"kat_burncover"};
         callbackSuccess = QFUNC(useBurncover);
     };
+    class ApplyBurncover_face: BasicBandage {
+        displayName = CSTRING(Apply_Burncover_face);
+        displayNameProgress = CSTRING(Applying);
+        condition = "true";
+        treatmentLocations = 0;
+        treatmentTime = 5;
+        allowedSelections[] = {"Head"};
+        items[] = {"kat_burncover_face"};
+        callbackSuccess = QFUNC(useBurncover_face);
+    };
 };

@@ -13,5 +13,10 @@ class CfgWeapons {
             mass = 0.2;
         }; 
     };
-
+    class kat_burncover_face: kat_burncover {
+        displayName = CSTRING(burncover_face_displayName);
+        picture = QPATHTOF(ui\burncover.paa);
+        model = "\A3\Structures_F_EPA\Items\Medical\HeatPack_F.p3d";
+        descriptionShort = CSTRING(burncover_face_DescShort);
+    }
 };

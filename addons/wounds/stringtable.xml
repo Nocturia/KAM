@@ -9,9 +9,25 @@
             <English>Apply burn cover</English>
             <German>Brandwundenverbandtuch verwenden</German>
         </Key>
+        <Key ID="STR_KAT_Wounds_Apply_Burncover_face">
+            <English>Apply burn cover for face</English>
+            <German>Brandwundenverbandtuch für Gesicht verwenden</German>
+        </Key>
         <Key ID="STR_KAT_Wounds_burncover_displayName">
             <English>Burn cover</English>
             <German>Brandwundenverbandtuch</German>
+        </Key>
+        <Key ID="STR_KAT_Wounds_burncover_displayName">
+            <English>Burn cover for face</English>
+            <German>Brandwundenverbandtuch fürs Gesicht</German>
+        </Key>
+        <Key ID="STR_KAT_Wounds_burncover_DescShort">
+            <English>Used for sterile covering of larger burn wouinds until medical personnel can take over</English>
+            <German>Verwendet, um größere Brandwunden steril abzudecken, bis Rettungskräfte übernehmen</German>
+        </Key>
+        <Key ID="STR_KAT_Wounds_burncover_face_DescShort">
+            <English>Used for sterile covering of larger burn wouinds in the face until medical personnel can take over</English>
+            <German>Verwendet, um größere Brandwunden im Gesicht steril abzudecken, bis Rettungskräfte übernehmen</German>
         </Key>
         <Key ID="STR_KAT_Wounds_Check_Burn_Degree">
             <English>Checking burn degree</English>
