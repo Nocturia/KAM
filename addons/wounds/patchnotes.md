@@ -5,6 +5,7 @@ In here, I want to put all that needs to be done, all that is in progress, and a
 ## Done
 - Basic file structure
 - added Burn cover
+- added new burn types in a naive way (check for compliance and functionality)
 
 ## In Progress
 
