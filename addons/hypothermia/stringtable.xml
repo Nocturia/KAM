@@ -65,7 +65,7 @@
             <English>List of clothing marked that reduces heat loss</English>
             <Dutch>Lijst van kleding die temperatuurdalingen verminderen</Dutch>
             <Spanish>Listado de ropa marcada como reductora de la pérdida de calor</Spanish>
-            <German>Bekleidung, die weniger Wärmeverlust bewirkt</German>
+            <German>Liste von Kleidung, welche weniger Wärmeverlust bewirkt</German>
             <Japanese>熱損失を減らすことが出来るとマークされた衣類のリスト</Japanese>
         </Key>
         <Key ID="STR_KAT_Hypothermia_CheckHandWarmers">
@@ -156,7 +156,7 @@
             <English>Patient feels moderately cold</English>
             <Dutch>Patiënt voelt redelijk koud aan</Dutch>
             <Spanish>El paciente se siente moderadamente frío</Spanish>
-            <German>Patient fühlt sich medium kalt an</German>
+            <German>Patient fühlt sich kalt an</German>
             <Japanese>患者は少し冷たく感じます</Japanese>
         </Key>
         <Key ID="STR_KAT_Hypothermia_temperature_mild">
@@ -205,7 +205,7 @@
             <English>Line Warmer Active</English>
             <Dutch>Lijnwarmer actief</Dutch>
             <Spanish>Calentador de Línea Activo</Spanish>
-            <German>Prüfe Flüssigkeitswärmer</German>
+            <German>Flüssigkeitswärmer verwendet</German>
             <Japanese>ラインウォーマーを利用中</Japanese>
         </Key>
         <Key ID="STR_KAT_Hypothermia_HandWarmer_None">

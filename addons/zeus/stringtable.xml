@@ -3,7 +3,7 @@
     <Package name="Zeus">
         <Key ID="STR_KAT_Zeus_ModuleManageAirway_Obstruction">
             <English>Airway obstruction: </English>
-            <German>Atemwegsobstruktion: </German>
+            <German>Atemwegsverlegung: </German>
             <Czech>Obstrukce dýchacích cest: </Czech>
             <French>Obstruction des voies aériennes: </French>
             <Polish>Zator dróg oddechowych: </Polish>
@@ -60,7 +60,7 @@
             <Chinesesimp>气胸恶化:</Chinesesimp>
             <Japanese>気胸の悪化:</Japanese>
             <Russian>Пневмоторакс ухудшается:</Russian>
-            <German>Pneumothorax verschlechtert sich:</German>
+            <German>Pneumothorax kann sich verschlechtern:</German>
             <Spanish>Deterioro de pneumotórax:</Spanish>
             <French>Détérioration du pneumothorax :</French>
             <Portuguese>Deterioração do pneumotórax</Portuguese>
@@ -198,7 +198,7 @@
             <Japanese>心臓の状態を変更</Japanese>
             <French>Changer de condition cardiaque</French>
             <Korean>심장 상태 변경</Korean>
-            <German>Ändern Sie den Herzzustand</German>
+            <German>Herzzustand ändern</German>
             <Portuguese>Alterar estado cardíaco</Portuguese>
             <Spanish>Cambiar estado cardíaco</Spanish>
             <Finnish>Muuta sydämen tilaa</Finnish>
@@ -207,7 +207,7 @@
         </Key>
         <Key ID="STR_KAT_Zeus_checkmedical_Module_displayname">
             <English>Open unit medical menu</English>
-            <German>Medic Menü der Einheit öffnen</German>
+            <German>Medizinisches Menü der Einheit öffnen</German>
             <Czech>Otevřít zdravotnickou nabídku jednotky</Czech>
             <French>Ouvrir menu médical</French>
             <Polish>Otwórz menu medyczne</Polish>
@@ -225,7 +225,7 @@
         </Key>
         <Key ID="STR_KAT_Zeus_CardiacState_Module_State">
             <English>State:</English>
-            <German>Wert:</German>
+            <German>Zustand:</German>
             <Czech>Stav:</Czech>
             <French>Etat:</French>
             <Polish>Rytm:</Polish>

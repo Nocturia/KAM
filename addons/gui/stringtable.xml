@@ -20,7 +20,7 @@
         </Key>
         <Key ID="STR_KAT_GUI_SETTING_ColoredLogs">
             <English>Colored activitylogs (AED-X/Pulseoximeter)</English>
-            <German>Bunte Activitylogs (AED-X/Pulseoximeter)</German>
+            <German>Bunte Aktivitätslogs (AED-X/Pulseoximeter)</German>
             <Polish>Kolorowe logi aktywności (AED-X/Pulsoksymetr)</Polish>
             <Spanish>Registros de actividad de color (DEA-X/Oximetro)</Spanish>
             <Chinese>彩色活动记录(AED-X/脉冲氧饱和度仪)</Chinese>
@@ -38,7 +38,7 @@
         </Key>
         <Key ID="STR_KAT_GUI_SETTING_ColoredLogs_DESC">
             <English>Colors the Activitylogs of AED-X or Pulseoximeter red, if any value is critical</English>
-            <German>Färbt die Activitylogs von AED-X oder Pulsoximeter rot, wenn ein Wert kritisch ist</German>
+            <German>Färbt die Aktivitätslogs von AED-X oder Pulsoximeter rot, wenn ein Wert kritisch ist</German>
             <Polish>Zabarwia logi AED-X lub pulsoksymetru na czerwono, jeśli jakaś wartość jest krytyczna</Polish>
             <Spanish>Marca los registros de actividad del DEA-X o del Oximetro en rojo, si algún valor es crítico</Spanish>
             <Chinese>将AED-X或Pulseoximeter的Activitylogs染成红色，如果任何值是临界值。</Chinese>
@@ -95,42 +95,42 @@
         </Key>
         <Key ID="STR_KAT_GUI_HeadCover">
             <English>HEAD - NO LINE</English>
-            <German>KOPF - KEIN ANSCHLUSS</German>
+            <German>KOPF - KEIN ZUGANG</German>
             <Dutch>HOOFD - GEEN LIJN</Dutch>
             <Spanish>CABEZA - SIN LINEA</Spanish>
             <Japanese>頭部 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_ChestCover">
             <English>CHEST - NO LINE</English>
-            <German>TORSO - KEIN ANSCHLUSS</German>
+            <German>TORSO - KEIN ZUGANG</German>
             <Dutch>TORSO - GEEN LIJN</Dutch>
             <Spanish>TORSO - SIN LINEA</Spanish>
             <Japanese>胸部 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_RArmCover">
             <English>RIGHT ARM - NO LINE</English>
-            <German>RECHTER ARM - KEIN ANSCHLUSS</German>
+            <German>RECHTER ARM - KEIN ZUGANG</German>
             <Dutch>RECHTERARM - GEEN LIJN</Dutch>
             <Spanish>BRAZO DERECHO - SIN LINEA</Spanish>
             <Japanese>右腕 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_LArmCover">
             <English>LEFT ARM - NO LINE</English>
-            <German>LINKER ARM - KEIN ANSCHLUSS</German>
+            <German>LINKER ARM - KEIN ZUGANG</German>
             <Dutch>LINKERARM - GEEN LIJN</Dutch>
             <Spanish>BRAZO IZQUIERDO - SIN LINEA</Spanish>
             <Japanese>左腕 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_RLegCover">
             <English>RIGHT LEG - NO LINE</English>
-            <German>RECHTES BEIN - KEIN ANSCHLUSS</German>
+            <German>RECHTES BEIN - KEIN ZUGANG</German>
             <Dutch>RECHTERBEEN - GEEN LIJN</Dutch>
             <Spanish>PIERNA DERECHA - SIN LINEA</Spanish>
             <Japanese>右脚 - ライン無し</Japanese>
         </Key>
         <Key ID="STR_KAT_GUI_LLegCover">
             <English>LEFT LEG - NO LINE</English>
-            <German>LINKES BEIN - KEIN ANSCHLUSS</German>
+            <German>LINKES BEIN - KEIN ZUGANG</German>
             <Dutch>LINKERBEEN - GEEN LIJN</Dutch>
             <Spanish>PIERNA IZQUIERDA - SIN LINEA</Spanish>
             <Japanese>左脚 - ライン無し</Japanese>
@@ -144,7 +144,7 @@
         </Key>
         <Key ID="STR_KAT_GUI_ABGTitle">
             <English>ABG Results</English>
-            <German>ABG Ergebnisse</German>
+            <German>Blutgasanalyse-Ergebnisse</German>
             <Dutch>ABG resultaten</Dutch>
             <Spanish>Resultados ABG</Spanish>
             <Japanese>ABG 結果</Japanese>

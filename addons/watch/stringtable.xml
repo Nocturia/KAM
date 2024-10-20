@@ -55,7 +55,7 @@
             <Dutch>hPa</Dutch>
             <Spanish>hPa</Spanish>
             <Japanese>hPa</Japanese>
-            <German>Fahrenheit</German>
+            <German>hPa</German>
         </Key>
         <Key ID="STR_KAT_Watch_SETTING_AltitudeForm">
             <English>Select altitude form</English>
@@ -69,7 +69,7 @@
             <Dutch>Selecteerd welk hoogte eenheid gebruikt wordt voor de KATMIN horloge</Dutch>
             <Spanish>Selecciona qué unidad de altitud es usada para la pantalla del reloj KATMIN</Spanish>
             <Japanese>Katmin ウォッチで表示される高度の単位を選択します</Japanese>
-            <German>Bestimmt, welche Höhen-EInheit auf dem KATMIN-Display verwendet wird</German>
+            <German>Bestimmt, welche Höheneinheit auf dem KATMIN-Display verwendet wird</German>
         </Key>
         <Key ID="STR_KAT_Watch_SETTING_AltitudeForm_meters">
             <English>Meters</English>
