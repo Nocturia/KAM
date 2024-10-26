@@ -19,7 +19,7 @@
         <Key ID="STR_KAT_Chemical_SETTING_AVAIL_GASMASK_DISC">
             <English>Enter here the classname of the masks that should work with the system.</English>
             <Spanish>Introduce aqui los classnames de las máscaras para que funcionen</Spanish>
-            <German>Um externe Gasmasken zu integrieren, hier Classnames eintragen.</German>
+            <German>Um externe Gasmasken zu integrieren, hier Klassennamen eintragen.</German>
             <French>Entrez ici le classname des masques à gaz fonctionnant avec le système</French>
             <Japanese>システムで動作させたいガスマスクのクラス名をここに入力します。</Japanese>
             <Korean>시스템에서 작동해야 하는 마스크의 클래스네임을 입력합니다.</Korean>
@@ -49,7 +49,7 @@
         <Key ID="STR_KAT_Chemical_SETTING_GASMASK_DURABILITY_DISC">
             <English>Determines how long you can stand in the gas with a gas mask without getting infected.</English>
             <Spanish>Determina cuanto puedes resistir en el gas sin mascara de gas y no resultando infectado</Spanish>
-            <German>Bestimmt die Dauer, mit welcher man mit Gasmaske im Gas stehen kann, ohne infiziert zu werden.</German>
+            <German>Bestimmt die Dauer, die man mit Gasmaske im Gas stehen kann, ohne infiziert zu werden.</German>
             <French>Détermine la durée où vous pouvez tenir dans un gaz avec un masque à gaz sans être infecté</French>
             <Korean>방독면을 사용하여 중독되지 않고 가스에 얼마나 오래 있을 수 있는지 결정합니다.</Korean>
             <Japanese>ガスマスクを使用しながらガスの中にどれだけ長く感染せずにいられるかを設定します</Japanese>
@@ -379,7 +379,7 @@
         <Key ID="STR_KAT_Chemical_sealLeak">
             <English>Seal leak</English>
             <Spanish>Sellar fuga</Spanish>
-            <German>Leck versiegeln</German>
+            <German>Leck abdichten</German>
             <French>Sceller la fuite</French>
             <Korean>누출 밀봉</Korean>
             <Japanese>ガス漏れをシールする</Japanese>
@@ -453,7 +453,7 @@
         <Key ID="STR_KAT_Chemical_M7A3_DcsShort">
             <English>The M7A3 CS gas grenade is a non-lethal tear gas grenade that causes severe burning of the mucous membranes and eyes on contact.</English>
             <Spanish>La granada M7A3 CS es una granada no-letal que se utiliza para causar quemaduras severas en las membranas mucosas y en los ojos al contacto.</Spanish>
-            <German>Die M7A3 CS Reizgas Granate ist eine nicht tödliche Tränengas Granate, die bei Kontakt starkes Brennen der Schleimhäute und Augen auslöst.</German>
+            <German>Die M7A3 CS Reizgas Granate ist eine nicht tödliche Tränengasgranate, die bei Kontakt starkes Brennen der Schleimhäute und Augen auslöst.</German>
             <French>La grenade à gaz M7A3 CS est une grenade à gaz lacrymogène non-létale qui crée de graves brûlures sur les membranes muqueuses et les yeux au contact.</French>
             <Japanese>M7A3 CSガス手榴弾は、接触すると粘膜や目に激しい火傷のような痛みを負わせる非致死性の催涙ガス手榴弾である。</Japanese>
             <Korean>M7A3 CS 가스 수류탄은 접촉 시 점막과 눈에 심한 화상을 입히는 비치명적 최루탄입니다.</Korean>
@@ -468,7 +468,7 @@
         <Key ID="STR_KAT_Chemical_TriWire_Gas_Name">
             <English>Tripwire Gas</English>
             <Spanish>Cable trampa de Gas</Spanish>
-            <German>Stolperdraht-Falle Senfgas</German>
+            <German>Stolperdraht-Falle mit Gas</German>
             <French>Grenade Tripwire</French>
             <Japanese>仕掛け型ガス地雷</Japanese>
             <Korean>인계철선 가스지뢰</Korean>
@@ -483,7 +483,7 @@
         <Key ID="STR_KAT_Chemical_TriWire_Gas_Desc">
             <English>Type: Tripwire gas - Sprays a poisonous gas when triggered.&lt;br /&gt;Rounds: 1&lt;br /&gt;Used on: Ground</English>
             <Spanish>Tipo: Cable trampa de Gas - Cuando se activa despliega un gas toxico. &lt;br /&gt;Rondas: 1&lt;br /&gt;Usado en: Tierra</Spanish>
-            <German>Typ: Stolperdraht-Falle Senfgas - Versprüht bei Auslösung ein giftiges Gas.&lt;br /&gt;Ladungen: 1&lt;br /&gt;Benutzt auf: Boden</German>
+            <German>Typ: Stolperdraht-Falle mit Gas - Versprüht bei Auslösung ein giftiges Gas.&lt;br /&gt;Ladungen: 1&lt;br /&gt;Benutzt auf: Boden</German>
             <French>Type : Gaz Tripwire - Spraye un gaz empoisonné quand activé.&lt;br /&gt;Munitions: 1&lt;br /&gt;Utilisé sur : le sol</French>
             <Japanese>タイプ: 対人仕掛け線ガス地雷 - 作動で毒ガスを噴霧します&lt;br /&gt;弾薬: 1&lt;br /&gt;使用: 地上</Japanese>
             <Korean>유형: 인계철선 가스 - 작동 시 독가스를 분사합니다.&lt;br /&gt;탄수: 1&lt;br /&gt;사용: 지상</Korean>
@@ -543,7 +543,7 @@
         <Key ID="STR_KAT_Chemical_CSGas_DisplayName">
             <English>82mm CS-Gas Round</English>
             <Spanish>Granada lacrimogena de 82mm</Spanish>
-            <German>[CSW] 82mm Reizgas Mörser Granate</German>
+            <German>[CSW] 82mm Reizgas Mörsergranate</German>
             <French>Cartouche de 82mm de gaz CS</French>
             <Japanese>[CSW] 82mm CSガス弾</Japanese>
             <Korean>[CSW] 82mm CS가스탄</Korean>
@@ -558,7 +558,7 @@
         <Key ID="STR_KAT_Chemical_M7A3_CSGrenade_DisplayName">
             <English>M7A3 Riot CS gas grenade</English>
             <Spanish>Granada antidisturbios de gas lacrimogeno M7A3</Spanish>
-            <German>M7A3 CS Reizgas Granate</German>
+            <German>M7A3 CS Reizgasgranate</German>
             <French>Grenace à gaz CS anti-émeute M7A3</French>
             <Japanese>M7A3 鎮圧CSガス手榴弾</Japanese>
             <Korean>M7A3 진압용 CS가스 수류탄</Korean>
@@ -618,7 +618,7 @@
         <Key ID="STR_KAT_Chemical_M43_desc">
             <English>Laser Guided Cluster Bomb with a chemical gas payload.</English>
             <Spanish>Bomba de fragmentacion guiada por laser con una carga de gas toxico</Spanish>
-            <German>Laser gelenkte Streubombe mit Senfgas Gefechtskopf.</German>
+            <German>Laser gelenkte Streubombe mit Senfgas-Gefechtskopf.</German>
             <French>Bombe à sous-munitions à guidée laser contenant un gaz chimique.</French>
             <Japanese>化学ガスを搭載したレーザー誘導クラスター爆弾。</Japanese>
             <Korean>화학가스가 탑재된 레이저 유도 집속탄입니다.</Korean>
@@ -663,7 +663,7 @@
         <Key ID="STR_KAT_Chemical_HydraGas_desc">
             <English>Unguided rockets with Toxic-gas warhead.</English>
             <Spanish>Cohetes no-guiados con cabeza de gas toxico</Spanish>
-            <German>Ungelenkte Raketen mit Senfgas Gefechtskopf.</German>
+            <German>Ungelenkte Raketen mit Senfgas-Gefechtskopf.</German>
             <French>Roquettes non-guidées contenant un gaz toxique</French>
             <Japanese>有毒ガス弾頭を搭載した無誘導ロケット。</Japanese>
             <Korean>독성 가스 탄두가 장착된 무유도 로켓입니다.</Korean>
@@ -753,7 +753,7 @@
         <Key ID="STR_KAT_Chemical_UI_sealable">
             <English>Is sealable?</English>
             <Spanish>¿Es sellable?</Spanish>
-            <German>Versiegelbar?</German>
+            <German>Abdichtbar?</German>
             <French>Scellable ?</French>
             <Korean>밀봉가능 개체입니까?</Korean>
             <Japanese>シーリング可能かどうか</Japanese>
@@ -798,7 +798,7 @@
         <Key ID="STR_KAT_Chemical_UI_gasType">
             <English>Gas Type:</English>
             <Spanish>Tipo de gas:</Spanish>
-            <German>Gas Typ:</German>
+            <German>Gastyp:</German>
             <French>Type de gaz:</French>
             <Japanese>ガスの種類:</Japanese>
             <Korean>가스 유형:</Korean>
